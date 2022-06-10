@@ -2,11 +2,11 @@
 
 # This file produce some printing
 
-print("Hello world")
+print("Hello Lucas")
 
 
 # We introduce some interaction with the user
 
-name = input("What's your name?")
+name = input("Le Covid n'existe pas.")
 print("\nHello " + name)
 
